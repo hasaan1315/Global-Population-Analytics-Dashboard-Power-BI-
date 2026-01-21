@@ -45,35 +45,35 @@ The solution uses a **star-schema data model**, advanced **DAX measures**, and *
 - **Maps:** Population distribution by region  
 - **Top Countries:** Largest and fastest-growing countries
 
-![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/5a04e676c845b4468c2fac44c65c4da691c293d8/1.png)
+![image alt](https://github.com/hasaan1315/Global-Population-Analytics-Dashboard-Power-BI-/blob/ae9eb12557354d90a7eb919f4205e0ae60c12195/images/Screenshot%202026-01-21%20172453.png)
 
 ### 2️⃣ Country Comparison Dashboard
 - Compare countries by **population, rank, region, and income group**  
 - **Top-N analysis** and distribution tables  
 - **Interactive slicers** for countries, regions, and years
 
-![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/5a04e676c845b4468c2fac44c65c4da691c293d8/1.png)
+![image alt](https://github.com/hasaan1315/Global-Population-Analytics-Dashboard-Power-BI-/blob/ae9eb12557354d90a7eb919f4205e0ae60c12195/images/Screenshot%202026-01-21%20172518.png)
 
 ### 3️⃣ Projections & Time Series Dashboard
 - Historical trends and future projections up to **2050**  
 - Area charts, line charts, and animated scatter plots  
 - Highlights transition from historical data to projections
 
-![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/5a04e676c845b4468c2fac44c65c4da691c293d8/1.png)
+![image alt](https://github.com/hasaan1315/Global-Population-Analytics-Dashboard-Power-BI-/blob/ae9eb12557354d90a7eb919f4205e0ae60c12195/images/Screenshot%202026-01-21%20172537.png)
 
 ### 4️⃣ Demographics Dashboard
 - Age structure analysis: **0–14, 15–64, 65+**  
 - Visualizations: decomposition trees, treemaps, donut charts  
 - Regional and income-group comparisons
 
- ![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/5a04e676c845b4468c2fac44c65c4da691c293d8/1.png)
+ ![image alt](https://github.com/hasaan1315/Global-Population-Analytics-Dashboard-Power-BI-/blob/ae9eb12557354d90a7eb919f4205e0ae60c12195/images/Screenshot%202026-01-21%20172556.png)
 
 ### 5️⃣ Country Drillthrough Page
 - Detailed country-specific analysis  
 - Population trends, growth rate, and global rank  
 - Interactive drillthrough for each country
 
-![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/5a04e676c845b4468c2fac44c65c4da691c293d8/1.png)
+![image alt](https://github.com/hasaan1315/Global-Population-Analytics-Dashboard-Power-BI-/blob/ae9eb12557354d90a7eb919f4205e0ae60c12195/images/Screenshot%202026-01-21%20172639.png)
 
 ---
 
